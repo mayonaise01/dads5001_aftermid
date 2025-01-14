@@ -18,6 +18,6 @@
  *  availability_365                  
  *  number_of_reviews_ltm           
  *  license
-## File isting.ipynb นำเสนอการใช้ข้อมูลจาก listing.csv ด้วย plotly ดังนี้
+## File listing.ipynb นำเสนอการใช้ข้อมูลจาก listing.csv ด้วย plotly ดังนี้
 * Price distribution
 * Scatter_mapbox
